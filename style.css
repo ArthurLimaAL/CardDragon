@@ -1,0 +1,39 @@
+.Text1 {
+    margin-left: 44%;
+
+}
+#DCC{
+    position: relative;
+     left: 12px;
+}
+.Eletric{
+border-radius: 50%;
+}
+
+.Elements{
+    z-index: -1;
+    position: absolute;
+    margin-top: 230px;
+    left: 30px;
+    width: 10%;
+}
+
+.imgs {
+    z-index: -1;
+    position: relative;
+    left: 570px;
+}
+
+.desc{
+    position: relative;
+    margin-top: 10%;
+    left: 400px;
+
+}
+
+.att{
+       position: relative;
+    margin-top: 4%;
+    left: 400px;
+
+}
